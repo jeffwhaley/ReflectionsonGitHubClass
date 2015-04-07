@@ -1,0 +1,5 @@
+Its much easier for a program to find things than visually.
+Its more efficient to save versions automatically.  
+Its easier to try new things and to take risks.
+Code files are interrelated to good to check together.
+To find changes use git log to find them and git diff to see what they are.
