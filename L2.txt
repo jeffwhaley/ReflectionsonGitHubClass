@@ -1,2 +1,6 @@
 Initializing a repository creates a secret .git directory so you can make commits
 Controls which files are part of repository
+Staging area can be used to make sure 1 commit per logical change.  If separate changes have been made
+in 2 files they can easily be committed separately.
+Diagrams clearly show the parent and the branch relationship
+The result of merging 2 branches is to create a file with both sets of changes included in one file
