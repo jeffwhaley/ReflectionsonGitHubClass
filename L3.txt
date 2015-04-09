@@ -1,2 +1,5 @@
 Learning how the remote repository works.  Git is a really well thought out tool.  Linus is a wizard.
 Manual pulling lets you be more careful about what you bring in.  Sometimes you might not want it.
+Clones are copies of a repository that don't reference the source
+Forks are copies that reference a source and stay on github
+Branches are names for commits.
