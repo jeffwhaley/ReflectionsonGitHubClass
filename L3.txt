@@ -1,1 +1,2 @@
 Learning how the remote repository works.  Git is a really well thought out tool.  Linus is a wizard.
+Manual pulling lets you be more careful about what you bring in.  Sometimes you might not want it.
