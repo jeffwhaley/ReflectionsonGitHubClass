@@ -1,0 +1,1 @@
+Learning how the remote repository works.  Git is a really well thought out tool.  Linus is a wizard.
